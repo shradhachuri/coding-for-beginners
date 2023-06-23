@@ -11,6 +11,8 @@ public static void main(String[] args) {
 	
 //	> 	>= 	< 	<= 	== 	!= 
 	
+	//some code changes
+	
 	if (offeredSalary > currentSalary ) {
 		System.out.println("Yes");
 	}
